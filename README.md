@@ -1,5 +1,6 @@
 # Converteur d'unités
 
+## Description
 Ce projet Java propose une interface (swing) simple pour convertir des unités courantes : distance, poids, quantité, température, etc.  
 L'utilisateur peut choisir un type d’unité, entrer une valeur, et obtenir automatiquement la conversion.
 
